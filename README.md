@@ -52,4 +52,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Inspired by the Pokémon franchise.
-- Special thanks to [C++ Programming Resources](https://www.learncpp.com) for their tutorials on OOP and C++.
+- Passion for Programming and exploring Development (C++)
