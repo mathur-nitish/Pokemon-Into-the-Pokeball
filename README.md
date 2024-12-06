@@ -1,4 +1,4 @@
-# Pokémon Into the Pokéball
+# Pokémon : Into the Pokéball
 
 Welcome to **Pokémon Into the Pokéball**, a console-based RPG game developed in C++ using Object-Oriented Programming (OOP) principles. Experience the world of Pokémon as you navigate the game world, capture wild Pokémon, and engage in epic battles. Track your captured Pokémon, manage your Pokéballs, and become the ultimate Pokémon trainer!
 
